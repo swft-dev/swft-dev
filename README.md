@@ -26,7 +26,6 @@
   <img src="https://skillicons.dev/icons?i=cpp" />
 </a>
 
-
 ### Repositories
 - [`Markdown to HTML`](https://github.com/dev-sys-code/markdown-to-html)
 - [`Currency converter`](https://github.com/swft-dev/Currency-Converter)
