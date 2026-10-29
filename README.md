@@ -26,9 +26,10 @@
 </a>
 
 ### Repositories
-[`Markdown to HTML`](https://github.com/dev-sys-code/markdown-to-html)<br><br>
-[`Currency converter`](https://github.com/swft-dev/Currency-Converter)<br><br>
-[`C++`](https://github.com/dev-sys-code/cpp)
+[`LG Remote`](https://github.com/swft-dev/LG-Remote) - Lets you control your LG TV from any web browser locally using Python<br><br>
+[`Markdown to HTML`](https://github.com/dev-sys-code/markdown-to-html) - Changes any markdown file to a HTML file using C++<br><br>
+[`Currency converter`](https://github.com/swft-dev/Currency-Converter) - Convert two different currencies using C++<br><br>
+[`C++`](https://github.com/dev-sys-code/cpp) - General C++ repository
 
 ---
 
