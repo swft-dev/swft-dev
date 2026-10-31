@@ -12,17 +12,25 @@
 
 ### Tech Stack
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,python" />
-</a>
+<div>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=96&reverseBackground=true" width=50/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=css3&size=96&reverseBackground=true" width=50/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=96&reverseBackground=true" width=50/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=tailwindcss&size=96&reverseBackground=true" width=50/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=python&size=96&reverseBackground=true" width=50/>
+</div>
 
 ### Environment
 
-<img src="https://skillicons.dev/icons?i=apple,windows,vscode" />
+<div>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=apple&size=96&reverseBackground=true" width=50/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=windows&size=96&reverseBackground=true" width=50/>
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</div>
 
 ### Currently learning
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=cplusplus&size=96&reverseBackground=true" width=50/>
 </a>
 
 ### Repositories
