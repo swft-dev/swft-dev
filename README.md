@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=10000000000&color=FFFFFF&center=true&vCenter=true&width=620&lines=Hello!+%F0%9F%91%8B&loop=false&delete=false" alt="Hello! 👋" />
 </div>
 
-<div align=center width=10>
+<div align=center>
   
   [![TikTok](https://www.readmecodegen.com/api/social-icon?name=tiktok&size=50&color=%23ffffff)](https://www.tiktok.com/@swft.dev)&nbsp;&nbsp;&nbsp;
   [![Discord](https://www.readmecodegen.com/api/social-icon?name=discord&size=50)](https://discord.com/users/751899627397316758)&nbsp;&nbsp;&nbsp;
@@ -29,15 +29,15 @@
 </div>
 
 ### Currently learning
-<a href="https://skillicons.dev">
+<div>
   <img src="https://www.readmecodegen.com/api/social-icon?name=cplusplus&size=96&reverseBackground=true" width=50/>
-</a>
+</div>
 
 ### Repositories
 [`LG Remote`](https://github.com/swft-dev/LG-Remote) - Lets you control your LG TV from any web browser locally using Python<br><br>
-[`Markdown to HTML`](https://github.com/dev-sys-code/markdown-to-html) - Changes any markdown file to a HTML file using C++<br><br>
+[`Markdown to HTML`](https://github.com/swft-dev/markdown-to-html) - Changes any markdown file to a HTML file using C++<br><br>
 [`Currency converter`](https://github.com/swft-dev/Currency-Converter) - Convert two different currencies using C++<br><br>
-[`C++`](https://github.com/dev-sys-code/cpp) - General C++ repository
+[`C++`](https://github.com/swft-dev/cpp) - General C++ repository
 
 ---
 
