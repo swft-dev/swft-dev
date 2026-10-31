@@ -25,7 +25,7 @@
 <div>
   <img src="https://www.readmecodegen.com/api/social-icon?name=apple&size=96&reverseBackground=true" width=50/>
   <img src="https://www.readmecodegen.com/api/social-icon?name=windows&size=96&reverseBackground=true" width=50/>
-  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=vscode" width=50/>
 </div>
 
 ### Currently learning
