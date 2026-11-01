@@ -30,7 +30,7 @@
 
 ### Currently learning
 <div>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=cplusplus&size=96&reverseBackground=true" width=50/>
+  <img src="https://skillicons.dev/icons?i=cs" width=50/>
 </div>
 
 ### Repositories
