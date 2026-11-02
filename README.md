@@ -43,6 +43,8 @@
   
 </div>
 
+---
+
 <div align=center>
   
   [![TikTok](https://www.readmecodegen.com/api/social-icon?name=tiktok&size=50&color=%23ffffff)](https://www.tiktok.com/@swft.dev)&nbsp;&nbsp;&nbsp;
