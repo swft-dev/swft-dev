@@ -52,3 +52,10 @@
   [![YouTube](https://www.readmecodegen.com/api/social-icon?name=youtube&size=50)](https://www.youtube.com/@KaydenKing0)&nbsp;&nbsp;&nbsp;
   
 </div>
+
+<a href="https://github.com/qwerty541#gh-dark-mode-only">
+    <img
+        src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=swft-dev&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&custom_title=WakaTime%20Stats%20%28Since%20Feb%2024%202024%29&disable_animations=true"
+        alt="My Wakatime stats"
+      />
+  </a>
