@@ -29,7 +29,6 @@
 [`LG Remote`](https://github.com/swft-dev/LG-Remote) - Lets you control your LG TV from any web browser locally using Python<br><br>
 [`Markdown to HTML`](https://github.com/swft-dev/markdown-to-html) - Changes any markdown file to a HTML file using C++<br><br>
 [`Currency converter`](https://github.com/swft-dev/Currency-Converter) - Convert two different currencies using C++<br><br>
-[`C++`](https://github.com/swft-dev/cpp) - General C++ repository
 
 ---
 
